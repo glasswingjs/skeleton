@@ -42,7 +42,7 @@
     "chai": "^4.2.0",
     "cross-env": "^6.0.3",
     "mocha": "^6.2.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "nodemon": "^1.19.4",
     "nyc": "^14.1.1",
     "prettier": "^1.18.2",
